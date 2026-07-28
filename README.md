@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Garima-006-20/Leetcode-/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
