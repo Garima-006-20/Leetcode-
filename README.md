@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Garima-006-20/Leetcode-/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
