@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Garima-006-20/Leetcode-/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Garima-006-20/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Garima-006-20/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
