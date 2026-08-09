@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Garima-006-20/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
