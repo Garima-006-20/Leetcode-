@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Recursion
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
