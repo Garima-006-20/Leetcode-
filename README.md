@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Garima-006-20/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/Garima-006-20/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Garima-006-20/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Recursion
@@ -106,4 +108,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Garima-006-20/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
