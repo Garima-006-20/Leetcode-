@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garima-006-20/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Garima-006-20/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garima-006-20/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Garima-006-20/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garima-006-20/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0844-backspace-string-compare](https://github.com/Garima-006-20/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
