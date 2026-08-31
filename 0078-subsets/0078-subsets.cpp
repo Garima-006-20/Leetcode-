@@ -1,28 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> arr;
+    vector<vector<int>> result;
 
-    void subset(vector<int>& nums, int index) {
-        // Base case
-        if (index == nums.size()) {
-            ans.push_back(arr);
-            return;
+    void backtrack(vector<int>& nums, int index, vector<int>& current) {
+        // Every current subset is a valid answer
+        result.push_back(current);
+
+        // Try adding each remaining element
+        for (int i = index; i < nums.size(); i++) {
+            current.push_back(nums[i]);
+
+            backtrack(nums, i + 1, current);
+
+            // Backtrack: remove the element
+            current.pop_back();
         }
-
-        // Include current element
-        arr.push_back(nums[index]);
-        subset(nums, index + 1);
-
-        // Backtrack
-        arr.pop_back();
-
-        // Exclude current element
-        subset(nums, index + 1);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        subset(nums, 0);
-        return ans;
+        vector<int> current;
+
+        backtrack(nums, 0, current);
+
+        return result;
     }
 };
