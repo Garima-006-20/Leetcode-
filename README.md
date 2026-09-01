@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Garima-006-20/Leetcode-/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garima-006-20/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Garima-006-20/Leetcode-/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Garima-006-20/Leetcode-/tree/master/0202-happy-number) |
 ## Binary Lifting
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Garima-006-20/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Garima-006-20/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Garima-006-20/Leetcode-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
