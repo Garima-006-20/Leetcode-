@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Garima-006-20/Leetcode-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Garima-006-20/Leetcode-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Garima-006-20/Leetcode-/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Garima-006-20/Leetcode-/tree/master/0078-subsets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Garima-006-20/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Garima-006-20/Leetcode-/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Garima-006-20/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 ## Stack
 |  |
